@@ -11,11 +11,7 @@
 	</parent>
 	<groupId>com.customer</groupId>
 	<artifactId>customer-data</artifactId>
-<<<<<<< HEAD
 	<version>0.0.2</version>
-=======
-	<version>0.0.2-SNAPSHOT</version>
->>>>>>> develop
 	<name>customer-data</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -25,12 +21,12 @@
 		<repository>
 			<id>release</id>
 			<name>releases</name>
-			<url>http://localhost:8081/artifactory/venkanna-libs-release-local</url>
+			<url>http://localhost:8081/artifactory/venkann-libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshots</name>
-			<url>http://localhost:8081/artifactory/venkanna-libs-snapshot-local</url>
+			<url>http://localhost:8081/artifactory/venkann-libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 
