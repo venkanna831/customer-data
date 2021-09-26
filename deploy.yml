@@ -18,7 +18,7 @@ spec:
       - name: secret-customer-docker
       containers:
       - name: customer-app
-        image: venunayira/milestone:latest
+        image: 96406/venkyrepo1:latest
         ports:
         - containerPort: 8080
 ---
